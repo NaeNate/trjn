@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node trjn.js",
+    "dev": "nodemon -q trjn.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
