@@ -4,5 +4,5 @@ Hollywood like malware display.
 
 ### Try it
 ```bash
-curl trjn.herokuapp.comm
+curl trjn.herokuapp.com
 ```
