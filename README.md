@@ -4,5 +4,5 @@ Hollywood like malware display.
 
 ### Try it
 ```bash
-curl parrot.live
+curl trjn.herokuapp.comm
 ```
